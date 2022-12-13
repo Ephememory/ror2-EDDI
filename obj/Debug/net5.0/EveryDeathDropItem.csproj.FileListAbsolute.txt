@@ -1,0 +1,5 @@
+D:\dev\Risk Of Rain 2 Mods\EveryDeathDropItem\obj\Debug\net5.0\EveryDeathDropItem.csproj.AssemblyReference.cache
+D:\dev\Risk Of Rain 2 Mods\EveryDeathDropItem\obj\Debug\net5.0\EveryDeathDropItem.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Risk Of Rain 2 Mods\EveryDeathDropItem\obj\Debug\net5.0\EveryDeathDropItem.AssemblyInfoInputs.cache
+D:\dev\Risk Of Rain 2 Mods\EveryDeathDropItem\obj\Debug\net5.0\EveryDeathDropItem.AssemblyInfo.cs
+D:\dev\Risk Of Rain 2 Mods\EveryDeathDropItem\obj\Debug\net5.0\EveryDeathDropItem.csproj.CoreCompileInputs.cache

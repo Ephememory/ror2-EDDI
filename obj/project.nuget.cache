@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WkWZxFJpRY013UUL7vCu3Sza6MWxzYXNaKtkOKhw5YsVNmMhoVJOz1oxrops3ao9ZFpDgvVtALLRiyQADy7QmQ==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\Risk Of Rain 2 Mods\\EveryDeathDropItem\\EveryDeathDropItem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
